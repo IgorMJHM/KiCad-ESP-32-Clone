@@ -1,0 +1,22 @@
+# --- KiCad backups & tijdelijke bestanden ---
+*.bak
+*.tmp
+*.lock
+*.net
+*-cache.lib
+fp-info-cache
+
+# --- Autosave ---
+_autosave-*
+
+# --- Gerber & output ---
+gerbers/
+output/
+out/
+*.gbr
+*.drl
+*.zip
+
+# --- OS rommel ---
+.DS_Store
+Thumbs.db
