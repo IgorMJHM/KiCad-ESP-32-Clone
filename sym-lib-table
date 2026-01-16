@@ -4,4 +4,7 @@
   (lib (name "ESP32-WROOM-32")(type "KiCad")(uri "${KIPRJMOD}/libraries/B3S-1000P/B3S-1000P.kicad_sym")(options "")(descr ""))
   (lib (name "CP2102N-A01-GQFN28")(type "KiCad")(uri "${KIPRJMOD}/libraries/CP2102N-A01-GQFN28/CP2102N-A01-GQFN28.kicad_sym")(options "")(descr ""))
   (lib (name "MMSS8050-H-TP")(type "KiCad")(uri "${KIPRJMOD}/libraries/MMSS8050-H-TP/MMSS8050-H-TP.kicad_sym")(options "")(descr ""))
+  (lib (name "AHT20")(type "KiCad")(uri "${KIPRJMOD}/libraries/AHT20/AHT20.kicad_sym")(options "")(descr ""))
+  (lib (name "BH1750")(type "KiCad")(uri "${KIPRJMOD}/libraries/BH1750FVI-TR/BH1750FVI-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "24LC1025-I_SN")(type "KiCad")(uri "${KIPRJMOD}/libraries/24LC1025/KiCADv6/2026-01-14_16-38-21.kicad_sym")(options "")(descr ""))
 )
